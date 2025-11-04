@@ -52,11 +52,4 @@ Yulu, an urban micro-mobility provider, wants to predict:
 ##Files in this repo
 
 - `Yulu_Forecasting.ipynb` – full Colab notebook   
-- `README.md` – this file  
-
----
-
-## 🚀 To Run
-
-```bash
-pip install -r requirements.txt
+- `README.md` – this file 
